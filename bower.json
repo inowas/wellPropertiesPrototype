@@ -1,0 +1,21 @@
+{
+  "name": "wellPropertiesPrototype",
+  "homepage": "https://github.com/inowas/wellPropertiesPrototype",
+  "authors": [
+    "Martin Wudenka <Martin.Wudenka@gmx.de>"
+  ],
+  "description": "Playing around with bower, less and bootstrap.",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
